@@ -1,0 +1,4 @@
+﻿  simplestring.cpp
+c:\users\carlos\desktop\portfolio\homework_3_cis_269\homework_3_cis_269\simplestring.cpp(159): warning C4172: returning address of local variable or temporary: newsource
+  Homework_3_CIS_269.vcxproj -> C:\Users\Carlos\Desktop\Portfolio\Homework_3_CIS_269\Debug\Homework_3_CIS_269.exe
+  Homework_3_CIS_269.vcxproj -> C:\Users\Carlos\Desktop\Portfolio\Homework_3_CIS_269\Debug\Homework_3_CIS_269.pdb (Full PDB)
